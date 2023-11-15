@@ -1,1 +1,1 @@
-# progkorny-multiple-window-wpf
+# Többaplakos wpf alkalmazás példa
